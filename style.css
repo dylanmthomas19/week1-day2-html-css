@@ -39,7 +39,17 @@ h2{
 #bio-image{
     float: left;
     width: 200px;
+    padding-top: 5px;
 }
-a:link {
+a:link{
     color: #d21034;
+}
+
+a:visited{
+    color: black;
+}
+
+#interests{
+    padding-top: 350px;
+    column-count: auto;
 }
